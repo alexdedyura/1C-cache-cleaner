@@ -1,7 +1,7 @@
 import os
 import shutil
 
-print("Очистка кэша 1С | eobuv.ru")
+print("Очистка кэша 1С | Alex Dedyura")
 
 user = os.getlogin()
 print("Текущий пользователь: ",user)
